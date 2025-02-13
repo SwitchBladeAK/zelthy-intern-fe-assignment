@@ -1,0 +1,202 @@
+[
+  {
+    "id": "0",
+    "date": "2025-02-01",
+    "time": "09:00",
+    "user": "Aarav Sharma",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "1",
+    "date": "2025-02-01",
+    "time": "10:00",
+    "user": "Diya Patel",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "2",
+    "date": "2025-02-01",
+    "time": "11:00",
+    "user": "Rohan Mehta",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "3",
+    "date": "2025-02-01",
+    "time": "12:00",
+    "user": "Ananya Singh",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "4",
+    "date": "2025-02-01",
+    "time": "13:00",
+    "user": "Vikram Reddy",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "5",
+    "date": "2025-02-02",
+    "time": "09:00",
+    "user": "Isha Gupta",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "6",
+    "date": "2025-02-02",
+    "time": "10:00",
+    "user": "Arjun Kapoor",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "7",
+    "date": "2025-02-02",
+    "time": "11:00",
+    "user": "Neha Choudhary",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "8",
+    "date": "2025-02-02",
+    "time": "12:00",
+    "user": "Kabir Malhotra",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "9",
+    "date": "2025-02-02",
+    "time": "13:00",
+    "user": "Sneha Verma",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "10",
+    "date": "2025-02-03",
+    "time": "09:00",
+    "user": "Aditya Kumar",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "11",
+    "date": "2025-02-03",
+    "time": "10:00",
+    "user": "Pooja Desai",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "12",
+    "date": "2025-02-03",
+    "time": "11:00",
+    "user": "Rajiv Menon",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "13",
+    "date": "2025-02-03",
+    "time": "12:00",
+    "user": "Tanvi Nair",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "14",
+    "date": "2025-02-03",
+    "time": "13:00",
+    "user": "Sameer Joshi",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "15",
+    "date": "2025-02-04",
+    "time": "09:00",
+    "user": "Meera Pillai",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "16",
+    "date": "2025-02-04",
+    "time": "10:00",
+    "user": "Amitabh Ray",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "17",
+    "date": "2025-02-04",
+    "time": "11:00",
+    "user": "Sia Bhatia",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "18",
+    "date": "2025-02-04",
+    "time": "12:00",
+    "user": "Karan Ahuja",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "19",
+    "date": "2025-02-04",
+    "time": "13:00",
+    "user": "Riya Khanna",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "20",
+    "date": "2025-02-05",
+    "time": "09:00",
+    "user": "Vishal Iyer",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "21",
+    "date": "2025-02-05",
+    "time": "10:00",
+    "user": "Anjali Rao",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "22",
+    "date": "2025-02-05",
+    "time": "11:00",
+    "user": "Ravi Shankar",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "23",
+    "date": "2025-02-05",
+    "time": "12:00",
+    "user": "Mira D'Souza",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "24",
+    "date": "2025-02-05",
+    "time": "13:00",
+    "user": "Sanjay Tiwari",
+    "booked": true,
+    "timezone": "Asia/Kolkata"
+  }
+]
